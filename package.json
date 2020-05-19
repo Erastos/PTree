@@ -1,0 +1,14 @@
+{
+  "name": "test_webserver",
+  "version": "1.0.0",
+  "description": "Test Webserver",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
